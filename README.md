@@ -63,5 +63,9 @@ I am a **Computer Engineering graduate** (2021-2025) from **Pokhara University**
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HemJoshi111&label=Profile%20Views&color=0e75b6&style=flat" alt="HemJoshi111" />
+</p>
+
+<p align="center">
   <i>Let's connect and build something amazing together!</i>
 </p>
