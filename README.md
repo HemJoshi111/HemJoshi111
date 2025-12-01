@@ -15,7 +15,7 @@
   <a href="https://www.HemJoshi.com.np">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:Contact@hemjoshi.com.np">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -27,9 +27,9 @@
 I am a **Computer Engineering graduate** (2021-2025) from **Pokhara University** with a CGPA of **3.35/4**. I have a strong foundation in software design, systems architecture, and data structures. Currently, I am focused on transitioning into a professional **Full Stack Developer** role, building dynamic web applications using the MERN stack.
 
 - 🔭 I’m currently working on **Full Stack Web Applications**.
-- 🌱 I’m currently learning **Advanced Node.js architecture and Cloud Deployment**.
+- 🌱 I’m currently working on **Advanced Node.js architecture and Cloud Deployment**.
 - 👯 I’m looking to collaborate on **Open Source MERN Projects**.
-- 💻 **Core Competencies:** OOP, DSA, DBMS, System Design, Computer Networks.
+- 💻 **Core Competencies:** OOP, DSA, DBMS, System Design, Computer Networks, Project Management.
 - ⚡ **Fun fact:** I love connecting the dots between complex backend logic and beautiful frontend interfaces.
 
 ---
