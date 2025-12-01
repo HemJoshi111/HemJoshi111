@@ -51,15 +51,17 @@ I am a **Computer Engineering graduate** (2021-2025) from **Pokhara University**
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HemJoshi111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" alt="HemJoshi111's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemJoshi111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HemJoshi111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" alt="HemJoshi111's GitHub stats" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HemJoshi111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemJoshi111&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
-
 ---
 
 <p align="center">
